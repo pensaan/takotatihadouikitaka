@@ -3,7 +3,6 @@
 body{
     font-family: "Hiragino Kaku","Yu Cothic","Meiryo",sans-serif;
     background-image: url(img/uminonaka.png);
-    background-size:cover;
 }
 
 p{
@@ -52,4 +51,5 @@ h4{
 h5{
     text-align:right;
     color: #ffffff;
+
 }
