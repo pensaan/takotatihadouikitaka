@@ -35,6 +35,10 @@ ul{
     font-size: 20px;
 }
 
+img{
+    width:500px;
+}
+
 h3{
    color: rgb(0, 0, 0);
    -webkit-text-stroke-width: 1px;
@@ -54,6 +58,7 @@ h5{
     color: #ffffff;
 
 }
+
 
 
 
